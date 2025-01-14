@@ -1,6 +1,8 @@
 # Simulador de Neurona Artificial
-Trabajo de Clase - Neurona genérica con función de activación (perceptrón simple)
-Esta aplicación web simula el funcionamiento de una neurona artificial, permitiendo ajustar sus parámetros y visualizar su salida.
+Trabajo de Clase - Neurona genérica con función de activación (perceptrón simple). Esta aplicación web simula el funcionamiento de una neurona artificial, permitiendo ajustar sus parámetros y visualizar su salida.
+
+![Neurona Artificial](https://github.com/warc0s/neurona_generica/blob/main/foto.jpg?raw=true)
+
 
 ## Características
 
