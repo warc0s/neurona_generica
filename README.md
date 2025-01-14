@@ -11,6 +11,9 @@ Trabajo de Clase - Neurona genérica con función de activación (perceptrón si
 - Tres funciones de activación: Sigmoide, ReLU y Tangente Hiperbólica
 - Interfaz moderna y fácil de usar
 
+## Streamlit Cloud
+Ya puedes probar la aplicacion en streamlit cloud sin necesidad de instalar nada. Puedes encontrarlo en el siguiente enlace: [https://neuronagenerica-iabd.streamlit.app
+](https://neuronagenerica-iabd.streamlit.app/)
 ## Instalación
 
 1. Asegúrate de tener Python instalado en tu sistema
